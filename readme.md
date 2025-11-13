@@ -1,6 +1,6 @@
-｜ＣＳＳ｜<br />
-｜ＩＳ　｜<br />
-｜ＡＷＥ＄ＯＭＥ
+> ｜ＣＳＳ｜<br />
+> ｜ＩＳ　｜<br />
+> ｜ＡＷＥ＄ＯＭＥ
 
 ```jasmin
 invokestatic net/aurynj/Example.main:([Ljava/lang/String;)V
